@@ -7,3 +7,4 @@ I have included one past project that I have built out and already deployed/ship
 
 Along with that you can see on the top bar my github/linkedin profiles if you want to communicate with me or see my other works.
 
+Here is the link for you to check it out: https://rik7789.github.io/Mypersonalwebsite/
