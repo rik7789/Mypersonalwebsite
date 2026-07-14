@@ -1,0 +1,154 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rithwik's Personal Website</title>
+</head>
+
+<body>
+    
+    <div style="background-color: #11ecf8; height: 60px; width: 100%;padding-top: 5px; padding-left: 40px;">
+    <p style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/rithwik-chawla-9809a4177/" target="_blank" style="
+        display: inline-block;
+        background-color: #0077b5;
+        color: white;
+        padding: 10px 30px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 20px;
+    ">Linkedin</a>
+    <a href="https://github.com/rik7789" target="_blank" style="
+        display: inline-block;
+        background-color: #0077b5;
+        color: white;
+        padding: 10px 30px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 20px;
+    ">Github</a>
+</p>
+
+    </div>
+
+    <div style="text-align: center; margin-top: 27px;">
+        <h1>Welcome to My Personal Website!</h1>
+    </div>
+    <hr style="border: none; border-top: 2px dotted #3377ff;">
+    </div class="container">
+        <p style="font-size: 24px; text-align: left; margin-left: 60px; width:50%">Hi there! I'm Rithwik Chawla, a Waterloo Computer Science student with a double degree in Laurier Business Administration. I am interested in building new projects involving Python, AI and ML.</p>
+        
+    </div>
+    <div class="right">
+       
+        <img src="image12.png" alt="Rithwik Chawla" style="width: 400%; margin-left: 850px; width: 250px; border-radius: 8px;margin-top: -150px;border: 6px solid #0bff3c">
+                    <p style="font-family: 'Brush Script MT', cursive; font-size: 28px; margin-top: 10px; margin-left: 893px;"> - Rithwik '26</p>
+
+    </div>
+    <div style="background-color: #f8f9fa; border: 3px solid #000; border-radius: 10px; padding: 30px; margin: 40px 60px; box-shadow: 6px 6px 6px #000; width: 600px; min-height: 100px; margin-top: -300px;">
+            <h2 style="margin-top: 0; margin-bottom: 20px; font-family: serif;">My Skills</h2>
+         <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+        <button class="skill-btn" style="background-color: #a3e4d7;font-weight: bold;">Python</button>
+        <button class="skill-btn" style="background-color: #85c1e9;font-weight: bold;">HTML</button>
+        <button class="skill-btn" style="background-color: #76d7c4;font-weight: bold;">CSS</button>
+        <button class="skill-btn" style="background-color: #5dade2;font-weight: bold;">JavaScript</button>
+        <button class="skill-btn" style="background-color: #48c9b0;font-weight: bold;">AI</button>
+        <button class="skill-btn" style="background-color: #45b39d;font-weight: bold;">Vibecoding</button>
+        <button class="skill-btn" style="background-color: #5499c7;font-weight: bold;">Azure Fundamentals</button>
+        <button class="skill-btn" style="background-color: #52be80;font-weight: bold;">Cloud</button>
+        <button class="skill-btn" style="background-color: #58d68d;font-weight: bold;">Azure Pricing</button>
+        <button class="skill-btn" style="background-color: #3498db;font-weight: bold;">Cybersecurity</button>
+        <button class="skill-btn" style="background-color: #17a589;font-weight: bold;">Content Marketing</button>
+    </div>
+    </div>
+    <hr style="border: none; border-top: 2px dashed #2b19c7; width: 100%;">
+    <div style="text-align: center; margin-top: 27px;">
+        <h1>Experience - where I've worked</h1>
+    </div>
+    <div style="margin: 40px 60px;">
+
+    <div style="background-color: #f8f9fa; border: 3px solid #10ec1ecf; border-radius: 10px; padding: 30px; box-shadow: 6px 6px 0px #000; margin-bottom: 30px;">
+        <h2 style="margin-top: 0; margin-bottom: 15px; font-family: serif;">CSI(Curriculum and school improvement) tutor</h2>
+        <p style="margin: 0;">Peel District School Board — Coding Camp<br>
+        June 2025 – July 2025<br><br>
+        Assisted students with debugging code and troubleshooting robotics projects.
+            <br>
+    Hosted two Micro:bit(coding chip) workshops for 30 participants, teaching them how to code an interactive game.
+            <br>
+    Supported the teacher with general tasks, including organizing materials, getting snacks, and picking up/dropping off students at the bus stop.
+            <br>
+    Photographed and created weekly slideshows to showcase student progress to parents.</p>
+    </div>
+
+    <div style="background-color: #f8f9fa; border: 3px solid #26c5ff; border-radius: 10px; padding: 30px; box-shadow: 6px 6px 0px #000;">
+        <h2 style="margin-top: 0; margin-bottom: 15px; font-family: serif;">Cashier</h2>
+        <p style="margin: 0;">Chick-Fil-A — Front of house team member<br>
+        May 2024 – July 2024<br><br>
+        Developed strong customer service and communication skills as a front-of-house team member at Chick-fil-A
+        <br>
+        Handled customer inquiries
+        <br>
+        Ensured a positive dining experience
+        <br>
+        Resolved issues efficiently to maintain customer satisfaction
+
+        </p>
+    </div>
+
+</div>
+<hr style="border: none; border-top: 2px solid rgb(23, 201, 177); width: 100%;">
+<div style="text-align: center; margin-top: 27px;">
+        <h1>Projects - what I've built</h1>
+
+    </div>
+
+    <style>
+.skill-btn {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+    padding: 12px 20px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    box-shadow: 3px 3px 0px #000;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+}
+
+.skill-btn:active {
+    transform: scale(0.9);
+}
+
+.skill-btn.pop {
+    animation: popAnim 0.3s ease;
+}
+
+@keyframes popAnim {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.2) rotate(-3deg); }
+    100% { transform: scale(1); }
+}
+</style>
+
+<script>
+document.querySelectorAll('.skill-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+        btn.classList.remove('pop');
+        void btn.offsetWidth; // restart animation if clicked repeatedly
+        btn.classList.add('pop');
+    });
+});
+</script>
+
+    
+</body>
+</html>
+
+</body>
+</html>
+
