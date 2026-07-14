@@ -103,9 +103,27 @@
 <hr style="border: none; border-top: 2px solid rgb(23, 201, 177); width: 100%;">
 <div style="text-align: center; margin-top: 27px;">
         <h1>Projects - what I've built</h1>
+            <div style="background-color: #f8f9fa; border: 3px solid #ff1cdd; border-radius: 10px; padding: 30px; margin: 40px 60px; box-shadow: 6px 6px 6px #1833ff; width: 600px; min-height: 100px; margin-top: 50px;">
+        <h2 style = 'text-align: left;'><a href="https://clarityzip--rithwiklolwhoca.replit.app" target="_blank" style="
+        display: inline-block;
+        background-color: #000201;
+        color: white;
+        padding: 10px 30px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 20px;
+    ">Clarity - an Ingredient Scanner app</a></h2>
+        <p style="margin: 0 0 15px 0;text-align: left;">Scans a product's ingredients list and informs user about any harmful ingredients.</p>
+        <p style="margin: 0 0 15px 0;text-align: left;">Also checks for allergens and any other dietary/religious restrictions.</p>
+        <p style="margin: 0 0 15px 0;text-align: left;">Sign-in available to choose restrictions and save preferences for future scans.</p>
+        <p style="margin: 0 0 15px 0;text-align: left;">Uses google gemini API</p>
+
+        </p>
 
     </div>
-
+    <img src="Clarity_APP.png" alt="Demo of clarity app" style="width: 200%; margin-left: 640px; width: 406px; border-radius: 8px;margin-top: -300px;border: 6px solid #490957">
     <style>
 .skill-btn {
     font-family: Arial, sans-serif;
@@ -151,4 +169,6 @@ document.querySelectorAll('.skill-btn').forEach(btn => {
 
 </body>
 </html>
+
+
 
